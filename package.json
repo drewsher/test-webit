@@ -1,0 +1,29 @@
+{
+  "name": "test-webit",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Тестовое задание для Webit",
+  "author": {
+    "name": "Drew Sher."
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "@vue/cli": "^4.5.13",
+    "core-js": "^3.6.5",
+    "vue": "^2.6.11",
+    "vue-carousel": "^0.18.0",
+    "vue-router": "^3.2.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "_id": "test-webit@1.0.0",
+  "readme": "ERROR: No README data found!"
+}
